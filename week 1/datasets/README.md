@@ -1,0 +1,1 @@
+This folder contains the datasets used in Week 1 of the "Introduction to Data Science in Python" course. These datasets are used to practice basic Python programming, data manipulation, and exploratory data analysis techniques introduced in Week 1.
